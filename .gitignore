@@ -1,6 +1,7 @@
 .env
 .venv
 *.md
+!/readme.md
 __pycache__/
 *.py[cod]
 /data/
